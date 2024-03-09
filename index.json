@@ -1,0 +1,118 @@
+<section id="qaAexdE" data-type="section">
+    <style id="Cmaenrz" type="text/css">
+      
+    @media screen and (min-width:0px){#qaAexdE{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#LCdkQkZ{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#sieVwnq{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#KwyfUQG{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#enrNRLQ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#MuGebkL{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#TEsazHo{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#NBwouyj{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#YrPTlqi{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
+    @media screen and (min-width:0px){#IHbvZMO{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;margin-bottom:75px;}}
+    @media screen and (min-width:0px){#exEwfhk{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
+    @media screen and (min-width:0px){#jPZcnnW{font-size:1rem;color:white;}}
+    @media screen and (min-width:0px){#oWbzvWt{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#XMnofUn{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    @media screen and (min-width:0px){#WbTsuMV{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    
+    </style>
+    
+    <div id="LCdkQkZ" data-type="container">
+      <div id="WRwFhVu" data-type="backgrounds">
+        
+        <div id="KwyfUQG" data-type="bg-color" class="div-hidden">
+          <div id="enrNRLQ" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+          <div id="MuGebkL" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="TEsazHo" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="JQtROJN" data-type="bg-image" class="div-hidden">
+          <picture id="QPHMxZj">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="sieVwnq" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="UvUzQnj" data-type="bg-video" class="div-visible">
+          <video id="NBwouyj" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      </div> <!-- backgrounds -->
+  
+      <div id="YrPTlqi" data-type="content">
+        <div id="IHbvZMO">
+          <h2 id="exEwfhk" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+          <p id="jPZcnnW" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
+          <div id="oWbzvWt">
+            <a id="XMnofUn" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="WbTsuMV" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div> <!-- div2ID -->
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
+  
+    
+    
+    <section id="vYCkaYA" data-type="section">
+    <style id="itOpApR" type="text/css">
+      
+    @media screen and (min-width:0px){#vYCkaYA{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#bkKRWko{width:100%;height:100%;display:grid;gap:3px;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#rkyrhRC{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (min-width:0px){#mhNFwas{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (max-width:640px){#bkKRWko{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#rkyrhRC{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    @media screen and (max-width:640px){#mhNFwas{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    
+    </style>
+    
+      <div id="bkKRWko" data-type="grid">
+          <img id="rkyrhRC" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
+          <img id="mhNFwas" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">   
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
+  
+    
+    
+    <section id="ckWJIxs" data-type="section">
+    <style id="hBcOusS" type="text/css">
+      
+    @media screen and (min-width:0px){#ckWJIxs{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#oWfQooC{width:100%;height:100%;display:grid;gap:3px; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#HvmVSuE{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#DEVfMRW{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#yHHsFKp{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#UaUycIl{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (max-width:640px){#oWfQooC{width:100%;height:100%;display:grid; grid-template-columns: 1fr;}}
+ 
+    
+    </style>
+    
+      <div id="oWfQooC" data-type="grid">
+ 
+          <img id="HvmVSuE" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
+          <img id="DEVfMRW" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
+          <img id="yHHsFKp" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
+          <img id="UaUycIl" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
