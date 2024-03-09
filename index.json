@@ -1,24 +1,23 @@
-<section id="BDRHdyT" data-type="section">
-    <style id="amXmqtP" type="text/css">
+<section id="ztecnWT" data-type="section">
+    <style id="VLISloR" type="text/css">
       
-    @media screen and (min-width:0px){#BDRHdyT{width:100vw;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#lPhxsfz{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#wjjXIKH{object-fit:cover;height:100%;min-height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#ktrXSrm{object-fit:cover;height:100%;min-height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#lOrdLtb{object-fit:cover;height:100%;min-height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#TeOsNJQ{object-fit:cover;height:100%;min-height:50vh;width:100vw}}
-
-    
+    @media screen and (min-width:0px){#ztecnWT{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#iVfeZKv{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#ONZHQAp{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#wmeYNwS{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#ChXupGy{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#AyLvDCF{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (max-width:640px){#iVfeZKv{width:100%;height:100%;display:grid; grid-template-columns: 1fr;}}
  
     
     </style>
     
-      <div id="lPhxsfz" data-type="grid">
+      <div id="iVfeZKv" data-type="grid">
  
-          <img id="wjjXIKH" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="ktrXSrm" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
-          <img id="lOrdLtb" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
-          <img id="TeOsNJQ" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+          <img id="ONZHQAp" src="https://images.unsplash.com/photo-1532887965424-5620f3b45c3f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxiaWtpbml8ZW58MHwwfHx8MTcxMDAwNzM5Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="wmeYNwS" src="https://images.unsplash.com/photo-1498315274598-bb226d12db69?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxiaWtpbml8ZW58MHwwfHx8MTcxMDAwNzM5Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="ChXupGy" src="https://images.unsplash.com/photo-1522990917584-2833706f6a48?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxiaWtpbml8ZW58MHwwfHx8MTcxMDAwNzM5Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="AyLvDCF" src="https://images.unsplash.com/photo-1487252502161-75020a813bf0?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8YmlraW5pfGVufDB8MHx8fDE3MTAwMDczOTZ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
 
       </div>
 
