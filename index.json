@@ -38,7 +38,7 @@
   
         <div id="mMFIeNC" data-type="bg-video" class="div-visible">
           <video id="YRDzWhd" autoplay="" loop="" muted="" loading="lazy">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+          <source src="https://player.vimeo.com/progressive_redirect/playback/402479685/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=abe8c6a8e94690dc5d87c22ff171428029c5e47f35554720dc49c5a25bf803ad" type="video/mp4">
           </video>
         </div> <!-- bg-video -->
   
@@ -81,8 +81,8 @@
     
       <div id="VgDrloi" data-type="grid">
  
-          <img id="VsHaahH" src="https://images.unsplash.com/photo-1596854307943-279e29c90c14?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyMHx8Y2F0c3xlbnwwfDB8fHwxNzA4NzE2OTM5fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="xXGhgBT" src="https://images.unsplash.com/photo-1631722670977-60c8b22dfcaf?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8cGFyZnVtfGVufDB8MHx8fDE3MDg3MTc2MTV8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="VsHaahH" src="https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrfGVufDB8MHx8fDE3MDk5OTA1MTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="xXGhgBT" src="https://images.unsplash.com/photo-1475070929565-c985b496cb9f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxkYXJrfGVufDB8MHx8fDE3MDk5OTA1MTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
          
       </div>
 
@@ -114,7 +114,7 @@
       
         <div id="PPmEzuz" data-type="grid">
 
-            <img id="YBFsdME" src="https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHx3aGl0ZXxlbnwwfDB8fHwxNzA5OTg5ODUzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+            <img id="YBFsdME" src="https://images.unsplash.com/photo-1494122353634-c310f45a6d3c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8ZGFya3xlbnwwfDB8fHwxNzA5OTkwNTE0fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
             <div id="ZLdXpll">
               <h1 id="jxFJbfO" contenteditable="true"> Devenez Expert en IA Generative! </h1>
               <p id="doyxOJe" contenteditable="true"> Lorem ipsum dolor sit amet </p>
