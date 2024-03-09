@@ -28,15 +28,15 @@
           <div id="TEsazHo" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
   
-        <div id="JQtROJN" data-type="bg-image" class="div-hidden">
+        <div id="JQtROJN" data-type="bg-image" class="div-visible">
           <picture id="QPHMxZj">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="sieVwnq" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+            <img id="sieVwnq" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTAwMTU1NzN8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="UvUzQnj" data-type="bg-video" class="div-visible">
+        <div id="UvUzQnj" data-type="bg-video" class="div-hidden">
           <video id="NBwouyj" autoplay="" loop="" muted="" loading="lazy">
           <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
           </video>
@@ -76,8 +76,8 @@
     </style>
     
       <div id="bkKRWko" data-type="grid">
-          <img id="rkyrhRC" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="mhNFwas" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">   
+          <img id="rkyrhRC" src="https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcwOTk4NzY1Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="mhNFwas" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcwOTk4NzY1Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">   
       </div>
 
 
@@ -104,10 +104,10 @@
     
       <div id="oWfQooC" data-type="grid">
  
-          <img id="HvmVSuE" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="DEVfMRW" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
-          <img id="yHHsFKp" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
-          <img id="UaUycIl" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+          <img id="HvmVSuE" src="https://images.unsplash.com/photo-1534080564583-6be75777b70a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzA5OTg3NjU2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="DEVfMRW" src="https://images.unsplash.com/photo-1517936401693-1dbb51e467c5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcwOTk4NzY1Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="yHHsFKp" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcwOTk4NzY3OXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="UaUycIl" src="https://images.unsplash.com/photo-1515821937231-c43ad7ed05fc?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzA5OTg3NjU2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
 
       </div>
 
