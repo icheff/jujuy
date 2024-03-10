@@ -116,3 +116,45 @@
       <img src="../global/file/edit-section.svg" data-type="img-edit">
     </button>
   </section>
+    
+    <section id="mBzqgyZ" data-type="section">
+      <style id="yvHjaHF" type="text/css">
+        
+    @media screen and (min-width:0px){#mBzqgyZ{width:100%;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#SvUsbVN{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#lVhyoPF{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#bUFNhon{display:grid;place-content:center;padding:5%; background:white;}}
+    @media screen and (min-width:0px){#CIgAQPX{font-size: clamp(3rem, 6vw, 8rem);line-height:1;}}
+    @media screen and (min-width:0px){#xaPZgBz{font-size:1rem;}}
+
+    @media screen and (max-width:640px){#SvUsbVN{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#lVhyoPF{object-fit:cover;height:100%;min-height:50vh;width:100%; display:grid;order:1;}}
+    @media screen and (max-width:640px){#bUFNhon{min-height:50vh;display:grid;place-content:end;padding:10%; background:white;}}
+    
+    
+      </style>
+      
+        <div id="SvUsbVN" data-type="grid" class="grid-section">
+        
+        <video id="lVhyoPF" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+      
+        <div id="bUFNhon">
+          <h1 id="CIgAQPX" contenteditable="true"> Devenez Expert en IA Generative! </h1>
+          <p id="xaPZgBz" contenteditable="true"> Lorem ipsum dolor sit amet </p>
+          <div id="yqPEWXk">
+            <a id="LpNolSn" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="yTPPDDW" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
+
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
