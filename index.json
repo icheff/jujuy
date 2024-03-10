@@ -85,3 +85,32 @@
       <img src="../global/file/edit-section.svg" data-type="img-edit">
     </button>
   </section>
+    
+    <section id="SsWtctB" data-type="section">
+    <style id="WRSyZJK" type="text/css">
+      
+    @media screen and (min-width:0px){#SsWtctB{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#BZKTfqS{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
+    @media screen and (min-width:0px){#fehlQWA{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#vgXjXBW{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#bJQyCLD{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#pnxPZvc{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (max-width:640px){#BZKTfqS{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
+ 
+    
+    </style>
+    
+      <div id="BZKTfqS" data-type="grid" class="grid-section">
+ 
+          <img id="fehlQWA" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
+          <img id="vgXjXBW" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
+          <img id="bJQyCLD" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
+          <img id="pnxPZvc" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
