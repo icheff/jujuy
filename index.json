@@ -158,3 +158,27 @@
         <img src="../global/file/edit-section.svg" data-type="img-edit">
       </button>
   </section>
+    
+    <section id="bbktSoy" data-type="section">
+    <style id="CalcGxJ" type="text/css">
+      
+    @media screen and (min-width:0px){#bbktSoy{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#yQJFkdG{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#GvoPURa{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (min-width:0px){#oKHoBOB{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (max-width:640px){#yQJFkdG{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#GvoPURa{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    @media screen and (max-width:640px){#oKHoBOB{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    
+    </style>
+    
+      <div id="yQJFkdG" data-type="grid" class="grid-section">
+          <img id="GvoPURa" src="https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxhcHBsZXxlbnwwfDB8fHwxNzEwMDYyOTY2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="oKHoBOB" src="https://images.unsplash.com/photo-1580974928064-f0aeef70895a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8YXBwbGV8ZW58MHwwfHx8MTcxMDA2Mjk2Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">   
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
