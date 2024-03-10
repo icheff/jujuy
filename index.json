@@ -28,15 +28,15 @@
           <div id="tdiIpaB" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
   
-        <div id="MicDmwT" data-type="bg-image" class="div-hidden">
+        <div id="MicDmwT" data-type="bg-image" class="div-visible">
           <picture id="utZyKTl">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="IaEyCmV" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+            <img id="IaEyCmV" src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxtYWNib29rfGVufDB8MHx8fDE3MTAwMzI0MTF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="VoQwKBP" data-type="bg-video" class="div-visible">
+        <div id="VoQwKBP" data-type="bg-video" class="div-hidden">
           <video id="RNlfOpF" autoplay="" loop="" muted="" loading="lazy">
           <source src="https://player.vimeo.com/progressive_redirect/playback/224011565/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=09925a7461783e72fa19fe8578734b971ffbc3428df8c81fc774b14732a51e55" type="video/mp4">
           </video>
@@ -76,8 +76,8 @@
     </style>
     
       <div id="DrNWJhe" data-type="grid" class="grid-section">
-          <img id="dFeHMsd" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="imDaPSg" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">   
+          <img id="dFeHMsd" src="https://images.unsplash.com/photo-1488509082528-cefbba5ad692?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyN3x8bW9iaWxlfGVufDB8MHx8fDE3MTAwMzI0NTB8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="imDaPSg" src="https://images.unsplash.com/photo-1507764923504-cd90bf7da772?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxkYXJrJTIwcHJvZHVjdHxlbnwwfDB8fHwxNzEwMDMyMzE4fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">   
       </div>
 
 
@@ -104,10 +104,10 @@
     
       <div id="PcvaFMt" data-type="grid" class="grid-section">
  
-          <img id="MixJhll" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="mCEKarp" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
-          <img id="cDFwDKh" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
-          <img id="qGoiypc" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+          <img id="MixJhll" src="https://images.unsplash.com/photo-1605457212077-c877b34a8b72?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxhcHBsZSUyMHByb2R1Y3RzfGVufDB8MHx8fDE3MTAwMzI0NzF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="mCEKarp" src="https://images.unsplash.com/photo-1526744050631-395f8c51434a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMnx8ZGFyayUyMHByb2R1Y3R8ZW58MHwwfHx8MTcxMDAzMjMxOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="cDFwDKh" src="https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8YXBwbGUlMjBwcm9kdWN0c3xlbnwwfDB8fHwxNzEwMDMyNDcxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="qGoiypc" src="https://images.unsplash.com/photo-1647503380147-e075b24f4cbe?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8ZGFyayUyMHByb2R1Y3R8ZW58MHwwfHx8MTcxMDAzMjMxOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
 
       </div>
 
@@ -137,7 +137,7 @@
       
         <div id="SvUsbVN" data-type="grid" class="grid-section">
         
-        <video id="lVhyoPF" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy">
+        <video id="lVhyoPF" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/408278747/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=59d0517be22220582730ee2b6ff6a411238b4354961cfe35752764142664e33f">
           <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
         </video>
 
