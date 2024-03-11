@@ -4,7 +4,6 @@ body {
 	font-family: 'Poppins', sans-serif; 
 }
 .grid-page {
-	background:rgb(63, 63, 63);
     display: grid;
     position:relative;
     width:100vw;
