@@ -8,10 +8,10 @@ body {
     position:relative;
     width:100vw;
     padding: 50px;
-    gap:10px;
+    gap:20px;
     z-index:-1;
     background-color: #263238;
 }
 .grid-section {
-	gap:10px;
+	gap:20px;
 }
