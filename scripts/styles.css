@@ -21,4 +21,7 @@ body {
         padding: 10px;
         gap:10px;
     }
+    .grid-section {
+		gap:10px;
+	}
 } 
