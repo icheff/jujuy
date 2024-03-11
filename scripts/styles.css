@@ -17,8 +17,7 @@ body {
 }
 
 @media screen and (max-width: 640px){
-    .grid-page,
-    .grid-section{
+    .grid-page {
         padding: 10px;
         gap:10px;
     }
