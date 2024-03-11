@@ -4,14 +4,13 @@ body {
 	font-family: 'Poppins', sans-serif; 
 }
 .grid-page {
-    box-sizing: border-box;
+	background:rgb(63, 63, 63);
     display: grid;
-    font-family: inherit;
     position:relative;
     width:100vw;
     padding: 50px;
-    gap:3px;
+    gap:10px;
 }
 .grid-section {
-	gap:3px;
+	gap:10px;
 }
